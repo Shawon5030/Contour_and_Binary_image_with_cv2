@@ -1,4 +1,4 @@
-# Contour_-_Binary_image_with_cv2
+# Contour_and_Binary_image_with_cv2
 ![image](https://github.com/Shawon5030/Contour_and_Binary_image_with_cv2/assets/149573785/ddb237e5-5013-49df-8621-7c12c352501a)
 
 # 1. Loading and Preprocessing Image:
