@@ -3,7 +3,7 @@
 
 # 1. Loading and Preprocessing Image:
 The code loads an image using OpenCV (cv2.imread) from the specified file path. <br/>
-<b/> Converts the loaded image to grayscale using cv2.cvtColor(). <br/>
+<br/> Converts the loaded image to grayscale using cv2.cvtColor(). <br/>
 
 # 2. Image Blurring:
 Applies Gaussian blur to the grayscale image using cv2.GaussianBlur(). <br/>
